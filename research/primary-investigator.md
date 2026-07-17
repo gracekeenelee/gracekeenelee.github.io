@@ -1,18 +1,16 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "PhD Student"
 ---
 
-Researcher - Physics & Astronomy
+PhD Student - Developmental Psychology
 
-Some University - 1 Main Street, Canada
+University of Wisconsin-Madison
 
-Phone: (000) 000-0000
+Email: gekeene@wisc.edu
 
-Email: hello@university.edu
-
-Office: Science Building 505
+Office: 1202 W Johnson St, Madison, WI 53706
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+Testing Testing Testing
