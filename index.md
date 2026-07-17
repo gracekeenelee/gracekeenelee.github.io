@@ -3,6 +3,10 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I study how people think about belief, and how this develops across childhood and cultures. In my research I ask questions like:
+- How do people think social forces such as authority shape belief?
+- When do we think belief change is possible?
+- Are we equipped to make moral judgments of belief itself, or is this always tied to consequences?
+- How does what is seen as moral or good, shape what is seen as possible?
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+My research is influenced by philosophy, which typically serves as the starting point for each of these questions.

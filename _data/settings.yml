@@ -1,7 +1,6 @@
 menu:
-- {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'research', url: '/research'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -9,14 +8,13 @@ people:
 - {name: 'Grace Keene-Lee', title: 'PhD Student', department: 'Psychology', institution: 'University of Wisconsin, Madison', email: 'gekeene@wisc.edu',image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 
 
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+research:
+- {name: 'Thinking about belief control', url: 'belief-control'}
+- {name: 'Moralization of belief & Norms of assertion', url: 'private-belief'}
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
 
 
 contacts:
-- {name: 'Grace Keene-Lee', title: 'PhD Student', department: 'Psychology', institution: 'University of Wisconsin, Madison', email: 'gekeene@wisc.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Grace Keene-Lee', title: 'PhD Student', department: 'Psychology', institution: 'University of Wisconsin, Madison', email: 'gekeene@wisc.edu', office: '1202 W Johnson St, Madison, WI 53706', image: 'assets/img/contact.jpg'}
