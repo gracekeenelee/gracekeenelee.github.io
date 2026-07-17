@@ -4,17 +4,26 @@ layout: default
 
 {{ content }}
 
-<h3 class="fw-bold border-bottom pb-3 mb-5">People</h3>
-{% for person in site.data.settings.people %}
+<h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
+
 <div class="row g-5 mb-5">
-  <div class="col-md-6">
-    <h5>{{ person.name }}</h5>
-    <p>Email: {{ person.email }}</p>
-    <p>Phone: {{ person.phone }}</p>
-    <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>
+  <div class="col-md-8">
+    <h4>Children's thinking about belief</h4>
+    <p>
+      Collaborators: (Mary) Shaocong Ma, Laura Soter, Pearl Han Li
+      In this ongoing project we examine how children and adults reason about coercive and epistemic influence on belief, in the United States and China. We ask whether these influences make belief change possible, likley, and good or bad, as well as how it might influence behavior predicitions.
+    </p>
+
+    <p>
+      <a href="/projects/authority/">Read more →</a>
+    </p>
   </div>
-  <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
+
+<div class="row g-5 mb-5">
+  <div class="col-md-8">
+    <h4>Private versus Asserted Beliefs</h4>
+    <p>
+      Collaborators: Laura Soter, Pearl Han Li
+      In this new project we ask whether judgments of a belief are influenced by whether the belief is communicated, or simply thought. We are exploring this between domains.
+    </p>
   </div>
-</div>
-{% endfor %}
