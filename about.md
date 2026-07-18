@@ -9,8 +9,8 @@ permalink: /about/
 <div class="row g-5 mb-5">
   <div class="col-md-8">
     <p>
+    
       In my free time:
-    </p>  
     
       * I have a community garden plot and excitedly await winter squash soup season
       * I recently joined a local climbing gym
