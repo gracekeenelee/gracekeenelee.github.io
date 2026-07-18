@@ -11,14 +11,15 @@ permalink: /about/
     <p>
       In my free time:
     </p>  
+    
       * I have a community garden plot and excitedly await winter squash soup season
       * I recently joined a local climbing gym
       * I love hiking, backpacking, and camping
       * I'm eternally trying new crafts, some recent crafts include: watercolor, baking, knitting, and more
       * I enjoy film photography
       * I enjoy bird watching (cranes, brown headed cow bird, and black capped chickadees are my local favorites)
-    <p>  
-      At other times I did submission wrestling and dutch kickboxing, intramural volleyball, and have enjoyed running.
+      At other times I did submission wrestling and dutch kickboxing, intramural volleyball, and have enjoyed running. I'm always looking for new hobbies :)
+   
     </p>
 
 </div>
