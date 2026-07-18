@@ -6,24 +6,20 @@ permalink: /about/
 
 <h3 class="fw-bold border-bottom pb-3 mb-5">Hobbies</h3>
 
-<div class="row g-5 mb-5">
-  <div class="col-md-8">
-  
-    <p> In my free time: </p>
-    
-    <ul>
-      <li>I have a community garden plot and excitedly await winter squash soup season.</li>
-      <li>I recently joined a local climbing gym.</li>
-      <li>I love hiking, backpacking, and camping.</li>
-      <li>I'm eternally trying new crafts; some recent crafts include watercolor, baking, knitting, and more.</li>
-      <li>I enjoy film photography.</li>
-      <li>I enjoy bird watching (cranes, brown-headed cowbirds, and black-capped chickadees are my local favorites).</li>
-      <li>I've been known to frequent a philosophy journal/book club.</li>
-    </ul>
-    
-    <p>
-      At other times I did submission wrestling and Dutch kickboxing, played intramural volleyball, and enjoy running. I'm always looking for new hobbies :)
-    </p>
+<p>In my free time:</p>
+
+<ul>
+  <li>I have a community garden plot and excitedly await winter squash soup season.</li>
+  <li>I recently joined a local climbing gym.</li>
+  <li>I love hiking, backpacking, and camping.</li>
+  <li>I'm eternally trying new crafts, including watercolor, baking, knitting, and more.</li>
+  <li>I enjoy film photography.</li>
+  <li>I enjoy bird watching (sandhill cranes, brown-headed cowbirds, and black-capped chickadees are my local favorites).</li>
+</ul>
+
+<p>
+At other times I have done submission wrestling, Dutch kickboxing, intramural volleyball, and have enjoyed running.
+</p>
 
   </div>
 </div>
