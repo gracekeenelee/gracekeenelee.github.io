@@ -3,6 +3,11 @@ layout: default
 title: "about me"
 permalink: /about/
 ---
+<h3 class="fw-bold border-bottom pb-3 mb-5">Background</h3>
+
+I conduct research in the Social and Moral Learning Lab, advised by Pearl Han Li, at UW Madison. Originally, I'm from California, growing up, attending college, and working as a research coordinator in the Bay Area.
+While my research focuses on belief, I enjoy thinking about other questions too, including the self, love and the family, social learning, and how we can have a positive impact on our planet.
+
 <h3 class="fw-bold border-bottom pb-3 mb-5">Hobbies</h3>
 
 In my free time:
